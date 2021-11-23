@@ -19,7 +19,7 @@
     <div class="container">
         <br><!-- comment -->
         <h1> Enter Start Roll and End ROll </h1>
-        <form action="result/" method="POST">
+        <form action="list.jsp" method="POST">
          <div class="mb-3">
             <label for="exampleInputEmail1" class="form-label">Main text</label>
             <input type="text" class="form-control"name="text" aria-describedby="emailHelp">
